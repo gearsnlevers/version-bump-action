@@ -25,7 +25,7 @@ Computes the next semantic version and release tag from a release type, and noth
 
 ## Decisions
 
-Accepted records are binding for humans and agents until a newer record supersedes them. If your task conflicts with one, stop and say so in the issue or pull request. A pull request that changes a decided behaviour adds or supersedes a record. Decisions for this repository are in [docs/decisions/](docs/decisions/README.md):
+Accepted records are binding for humans and agents until a newer record supersedes them. If your task conflicts with one, stop and say so in the issue or pull request. A pull request that changes a decided behaviour adds or supersedes a record. Decisions for this repository are in [docs/decisions/](docs/decisions/README.md): To write one, use the [record-a-decision](.claude/skills/record-a-decision/SKILL.md) skill.
 
 - [0001](docs/decisions/0001-the-action-computes-release-metadata-and-changes-nothing.md): The action computes release metadata and changes nothing.
 - [0002](docs/decisions/0002-the-base-version-comes-from-git-tags-and-a-shallow-checkout-fails.md): The base version comes from git tags, and a shallow checkout fails.
