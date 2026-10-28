@@ -1,6 +1,6 @@
 # version-bump-action: instructions for coding agents
 
-Computes the next semantic version and release tag from a release type, and nothing else. It is a composite GitHub Action that release workflows use at its moving major tag (`vscheuber/version-bump-action@v1`). It is one of five small actions that release each other: version-bump-action, release-preflight-action, manifest-version-update-action, ai-changelog-action and npm-trusted-publish-action; each does one job and points to the others for the rest. Read [README.md](README.md) and `.github/agentic-workflows/scope.md` (what is in and out of scope) first.
+Computes the next semantic version and release tag from a release type, and nothing else. It is a composite GitHub Action that release workflows use at its moving major tag (`gearsnlevers/version-bump-action@v1`). It is one of five small actions that release each other: version-bump-action, release-preflight-action, manifest-version-update-action, ai-changelog-action and npm-trusted-publish-action; each does one job and points to the others for the rest. Read [README.md](README.md) and `.github/agentic-workflows/scope.md` (what is in and out of scope) first.
 
 ## Layout
 

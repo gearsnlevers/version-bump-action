@@ -68,7 +68,7 @@ Compatibility outputs are also provided: `normalized`, `tag`, `is_prerelease`.
 
 - name: Compute version
   id: version
-  uses: vscheuber/version-bump-action@v1
+  uses: gearsnlevers/version-bump-action@v1
   with:
     release-type: prerelease
 
