@@ -9,6 +9,7 @@ applies-to:
   - README.md
 issues:
   - vscheuber/version-bump-action#1
+seal: sha256-g1:9ece3fde35a92ff8fe5cd89763ae3e55fd8ab54467839fa0896a1e0ae2368291
 ---
 
 # premajor starts or continues a prerelease train of the next major

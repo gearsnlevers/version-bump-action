@@ -6,6 +6,7 @@ decision-makers:
 applies-to:
   - scripts/compute-version.sh
   - README.md
+seal: sha256-g1:6daf52f2f765eb4e1c905fcd271da3c3f29aaa95cf849a7096e71dd399a6ed93
 ---
 
 # The base version comes from git tags, and a shallow checkout fails
