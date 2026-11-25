@@ -5,6 +5,7 @@ decision-makers:
   - maintainers
 applies-to:
   - scripts/compute-version.sh
+seal: sha256-g1:b62b06ba1dac033d2570ce83249cc79f4c25e754d532a7b73bd965999e49338c
 ---
 
 # A fork pull request takes its base from package.json

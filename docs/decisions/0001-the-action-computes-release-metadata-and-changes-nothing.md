@@ -7,6 +7,7 @@ applies-to:
   - action.yml
   - scripts/compute-version.sh
   - README.md
+seal: sha256-g1:5a9963fab0a73a688aea3deed2ce124e36574f71509ec9d7ff00dc48cb50c50e
 ---
 
 # The action computes release metadata and changes nothing
