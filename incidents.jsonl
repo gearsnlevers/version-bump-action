@@ -3,3 +3,4 @@
 {"at":"2026-11-24T20:05:15Z","event":"opened","key":"0003:P-06","violations":[{"commit":"9c4ea84a8040aae3d1d56f1c95276650ac07128f","kind":"state","file":"0003-a-fork-pull-request-takes-its-base-from-package-json.md","rule":"P-06","detail":"no seal"}]}
 {"at":"2026-11-24T20:05:15Z","event":"opened","key":"0004:P-06","violations":[{"commit":"9c4ea84a8040aae3d1d56f1c95276650ac07128f","kind":"state","file":"0004-premajor-starts-or-continues-a-prerelease-train-of-the-next-major.md","rule":"P-06","detail":"no seal"}]}
 {"at":"2026-11-24T20:05:15Z","event":"opened","key":"0005:P-06","violations":[{"commit":"9c4ea84a8040aae3d1d56f1c95276650ac07128f","kind":"state","file":"0005-releases-run-through-one-dispatched-workflow-that-uses-the-sibling-actions.md","rule":"P-06","detail":"no seal"}]}
+{"at":"2026-11-25T01:59:14Z","event":"closed","key":"0005:P-06","violations":[]}
